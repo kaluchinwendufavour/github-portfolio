@@ -4,7 +4,7 @@ Data analyst focused on Finance & Healthcare data. I build reproducible analyses
 - 🔭 I work with: Python, SQL, Excel, and BI tools (Power BI / Tableau)
 - ⚙️ Key strengths: exploratory data analysis, data cleaning/ETL, SQL analytics, dashboarding, and translating results to stakeholders
 - 🌱 Currently learning: production-ready pipelines, model explainability for regulated domains, and MLOps basics
-- 📫 Reach me: kaluchinwendufavour@gmail.com | [LinkedIn](https://www.linkedin.com/in/favour-kalu)
+- 📫 Reach me: kaluchinwendufavour@gmail.com | [LinkedIn](https://www.linkedin.com/in/favour-kalu-976b35246/)
 
 About me
 --------
